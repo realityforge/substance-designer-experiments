@@ -1,1 +1,5 @@
+# Local experimentation folder
 /tmp
+
+# Ignore Susbtance Designer autosaves
+/.autosave
